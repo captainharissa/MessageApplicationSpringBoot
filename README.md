@@ -83,7 +83,7 @@ Les contributions sont les bienvenues! Merci de suivre ces étapes:
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## Auteur
-Bilel - [Contact ou profil GitHub]
+captainharissa - Bilel BEN SAID
 
 ---
 
